@@ -40,7 +40,7 @@ Neste GitHub, compartilho projetos acadêmicos e pessoais voltados ao aprendizad
   <a href="https://discord.com/users/1354949758526951595" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/luiz-ot%C3%A1vio-a60a013a1/" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-ot%C3%A1vio-de-lima-silva-a60a013a1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
