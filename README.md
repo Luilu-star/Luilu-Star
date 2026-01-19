@@ -2,7 +2,7 @@
 
 
 <h2 align="left">Sobre mim: </h2>
-    <p>Sou estudante do Instituto Federal do Ceará (IFCE), atualmente no 2º ano.
+    <p>Sou estudante do Instituto Federal do Ceará (IFCE), atualmente no 3º ano.
 Tenho conhecimentos em HTML, CSS e JavaScript, com foco no desenvolvimento de interfaces web.
 
 Atualmente, estou aprofundando meus estudos em TypeScript, React e Tailwind CSS, buscando evoluir na construção de aplicações modernas, organizadas e escaláveis.
