@@ -12,7 +12,7 @@ Neste GitHub, compartilho projetos acadêmicos e pessoais voltados ao aprendizad
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,figma" />
   </a>
 </p>
 <p align="center">
